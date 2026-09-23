@@ -1,0 +1,6 @@
+{
+  "name": "CondoConcil - Gestão e Conciliação de Despesas de Condomínios",
+  "description": "Sistema completo para controle, conferência e conciliação bancária de despesas condominiais com importação de CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
